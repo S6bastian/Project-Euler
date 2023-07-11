@@ -10,7 +10,7 @@ int main(){
 
     a = 3;
     b = 5;
-    limit = 10;
+    limit = 1000;
     sum = 0;
 
     cout<<"Lista de numeros"<<endl;
